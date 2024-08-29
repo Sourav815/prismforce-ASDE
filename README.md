@@ -17,13 +17,7 @@ Problem Statement:
 
 
 
-
-
-Mathematical Intuition:
-
-![alt text](image.png)
-
 * Time & Space Complexity analysis
 
-    Time Complexity: O(n) where n is the number of circles (in this case, n = 11).
-    Space Complexity: O(n) where n is the number of circles
+    Time Complexity: O(1). As number of circle is 11 which is fixed here.
+    Space Complexity: O(1)
